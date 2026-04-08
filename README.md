@@ -1,1 +1,1 @@
-# ILITY-AIDROP
+Initialize repository with ITILITY project research structure
